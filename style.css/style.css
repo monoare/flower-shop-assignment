@@ -137,3 +137,18 @@ body {
   font-weight: 700;
   text-decoration-line: underline;
 }
+
+/* Delivery Section Styles */
+
+.delivery {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 128px 240px;
+  text-align: center;
+}
+
+.delivery-img {
+  width: 88px;
+  height: 88px;
+  margin-bottom: 24px;
+}
