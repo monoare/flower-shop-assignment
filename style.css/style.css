@@ -58,6 +58,7 @@ nav li:hover .dropdown {
   display: block;
   color: black;
   background-color: crimson;
+  cursor: pointer;
 }
 /* Banner Section Styles */
 
@@ -288,7 +289,7 @@ nav li:hover .dropdown {
 
 .email-section {
   text-align: center;
-  padding: 48px 287px 121px;
+  padding: 48px 180px 121px;
 }
 
 #email {
