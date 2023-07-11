@@ -46,10 +46,8 @@ nav li :hover {
   color: lightgray;
 }
 .dropdown {
-  margin-top: 21px;
   display: none;
   position: absolute;
-  background-color: lightgray;
   padding-left: 10px;
   font-size: 24px;
   width: 250px;
@@ -58,6 +56,8 @@ nav li :hover {
 
 nav li:hover .dropdown {
   display: block;
+  color: black;
+  background-color: crimson;
 }
 /* Banner Section Styles */
 
