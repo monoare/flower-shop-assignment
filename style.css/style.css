@@ -221,3 +221,81 @@ body {
 .gallery-photo {
   margin-right: 24px;
 }
+
+/* Latest Deals Section Styles */
+
+.latest-deals {
+  background: url("../flower asset/Rectangle\ 9.png") no-repeat;
+  background-position: center;
+  margin: 0 240px 128px;
+}
+
+.latest-deals-header {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding-top: 122px;
+  padding-bottom: 16px;
+}
+
+.coupon {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.email-section {
+  text-align: center;
+  padding: 48px 287px 121px;
+}
+
+#email {
+  border-radius: 8px;
+  background: #fff;
+  width: 700px;
+  height: 64px;
+  border: none;
+  padding-left: 25px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.btn-3 {
+  padding: 25px 40px;
+  margin-left: 16px;
+}
+
+/* Footer Section Styles */
+
+footer {
+  background: #111010;
+  text-align: center;
+}
+
+.footer-header {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+  padding: 128px 0 24px;
+}
+
+.shop {
+  color: white;
+}
+
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  width: 625px;
+  margin: 0 auto;
+}
+
+.copy-right {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 32px 0 128px;
+}
